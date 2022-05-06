@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center"> 
+  <a href="https://github.com/GuiiiAssis">
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=GuiiiAssis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br>
